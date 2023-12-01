@@ -1,0 +1,11 @@
+c:\users\joao.quadros\documents\visual studio 2015\Projects\Navegation\obj\Debug\Vendas.csprojResolveAssemblyReference.cache
+c:\users\joao.quadros\documents\visual studio 2015\Projects\Navegation\obj\Debug\Navegation.FillOrCancel.resources
+c:\users\joao.quadros\documents\visual studio 2015\Projects\Navegation\obj\Debug\Navegation.Navegation.resources
+c:\users\joao.quadros\documents\visual studio 2015\Projects\Navegation\obj\Debug\Navegation.NewCustomer.resources
+c:\users\joao.quadros\documents\visual studio 2015\Projects\Navegation\obj\Debug\Navegation.Properties.Resources.resources
+c:\users\joao.quadros\documents\visual studio 2015\Projects\Navegation\obj\Debug\Vendas.csproj.GenerateResource.Cache
+c:\users\joao.quadros\documents\visual studio 2015\Projects\Navegation\bin\Debug\Navegation.exe.config
+c:\users\joao.quadros\documents\visual studio 2015\Projects\Navegation\bin\Debug\Navegation.exe
+c:\users\joao.quadros\documents\visual studio 2015\Projects\Navegation\bin\Debug\Navegation.pdb
+c:\users\joao.quadros\documents\visual studio 2015\Projects\Navegation\obj\Debug\Navegation.exe
+c:\users\joao.quadros\documents\visual studio 2015\Projects\Navegation\obj\Debug\Navegation.pdb
